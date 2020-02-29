@@ -1,0 +1,12 @@
+:root{font-size:14px}.pending-product{margin-bottom:8px}.pending-product .flex-auto{flex:auto}.pending-product .d-inline-block{height:1.2em}.pending-product .overflow-hidden{overflow:hidden}.pending-product .help-text{color:#000}.pending-product .bg,.pending-product .icon,.pending-product .alias,.pending-product .details{opacity:0.5}@media (min-width: 576px){.pending-product .help-text{font-size:14px}}
+
+.review-item{display:block}.review-item>.content{display:flex}.review-item>.content>.key{min-width:100px}.review-item>.content>.value{flex:auto;margin-left:16px;text-overflow:ellipsis;overflow:auto;word-wrap:break-word;font-weight:bold}.review-item.-preformatted>.content>.value{white-space:pre-wrap}.review-item>.edit{text-transform:uppercase;float:right}.review-item>.edit>.link{display:inline-block}@media (max-width: 768px){.review-item>.content{display:block}.review-item>.content>.value{margin-left:0;margin-top:16px}.review-item>.edit{padding:0}}
+
+.value-label{line-height:1}.value-label>.label{margin-bottom:0;font-size:0.5em}.value-label>.value{height:2.25em;display:flex;flex-direction:column;justify-content:center}.value-label.-large-label>.label{font-size:0.8em}
+
+.progressBar{position:fixed !important;bottom:0;left:0}.progressBar>div{line-height:0.2}@media (min-width: 991px){.progressBar{padding-left:280px !important}}
+
+:root{font-size:14px}.dao-card{height:235px;width:370px}.dao-card>div{background-repeat:no-repeat;background-size:cover;border-radius:10px}.dao-card .card-content{padding-left:20px;padding-right:20px}.dao-card .type{letter-spacing:3px;opacity:0.5}.dao-card .metal{height:30px;width:41px;background-color:#ABA687;border-radius:3px}.dao-card .card-label{letter-spacing:4px;white-space:nowrap}.dao-card .card-number{opacity:0.4;letter-spacing:4px}.dao-card .cursor-pointer{cursor:pointer}@media (max-width: 575.98px){.dao-card{height:initial;padding-left:40px;padding-right:40px}.dao-card .type{letter-spacing:2px}.dao-card .card-label{letter-spacing:0px}}
+
+.branch-list>.header{padding:16px;display:flex;align-items:center}.branch-list>.header>.title{flex:auto;margin:0}.branch-list .header>.actions{margin-left:16px}.branch-list .footer{border-top:1px solid rgba(0,0,0,0.125)}.branch-list .footer>.actions{text-align:right;margin-left:16px}@media (max-width: 768px){.branch-list .header{padding:8px}.branch-list .header>.actions{margin-left:8px}.branch-list .footer{padding:8px}.branch-list .footer>.actions{text-align:right;margin-left:8px}}
+
